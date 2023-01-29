@@ -1,1 +1,4 @@
-# Machine Learning, Deep Learning, DataScience Projects
+# Machine Learning
+Deep Learning
+DataScience
+Projects
