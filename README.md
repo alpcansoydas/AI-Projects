@@ -1,1 +1,1 @@
-# ML, Deep Learning, Computer Vision, Data Science Projects
+# ML, Deep Learning, Computer Vision Projects
